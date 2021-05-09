@@ -36,3 +36,9 @@
     transform: rotate(360deg);
   }
 }
+
+.titleCard{
+  color :brown; 
+  text-align:'left';
+  font-weight:bold ;
+}
